@@ -1,2 +1,2 @@
-# practice
-This is where I just make some practice scripts and stuff
+# Leetcode practice
+This is where I just make some practice based on leetcode problems and stuff
