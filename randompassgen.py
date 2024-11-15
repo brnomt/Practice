@@ -41,7 +41,7 @@ def random_num():
 
 #If the user select symbols, this function will be called
 def random_sym():
-    symlist = ['$','@','#','&']
+    symlist = ['$','@','#','&','_']
     s = random.choice(symlist)
     return s
 
